@@ -1,0 +1,69 @@
+
+PHP Backend  مسار التنين 
+
+1- HTML, CSS
+2- Javascript and Jquery, Ajax, Datetabels  As you wish its good 
+3- Git and Github
+4- Create HTML, CSS, jQuery Project  With forms and Data Sources
+5- PHP syntax, Concepts – OOP in PHP
+6- Web servers Apache, Nginx 
+7- SQL Language 
+8- Relational Db , Msql,Postgres and oracle 
+9- Using DB admin panel like phpMyAdmin, MySQL workbench, Sequel pro
+10- Connect your PHP code with your DB connection  PDO or MySQL
+11- Create PHP implementation for your Original project to create Form handler and  Data For Ajax calls
+12 -Http, Https, DNS, Hosting, VPS 
+13- Bash scripts, Terminal usage,
+14- SSH, RSA 
+15 -MVC, MVVM, MVP concepts
+16- API Types, and  Restful Concepts 
+17- Pick a micro framework
+    Slim, Lumen, Silex just for API implementation and deal with the framework
+18-   Symfony , Laravel, Codeigniter, Zend, Coke PHP  Large framework  basics like 
+     Create controller, Services, View, Routes,  
+19- Template engine inside Each framework 
+    Twig, Blade, or others based on your framework
+20 – Upgrade your Project using your framework template engine to create the View pages 
+And your backend calls from your controllers 
+21- PSR standard PSR12  and Autoload concepts, with composer 
+22- Fix all PSR standard error From your Project code  add namespaces and PSR4 autoload
+23- Authentication and authorization Concepts 
+    cookies, sessions,  Autho2, Basic authentication, Token, authentication 
+24- Implement Authentication layers in your framework
+25- Create your security and authentication layer in your project 
+26 – using different environment dev, Stg, prod in your framework
+27 -NoSQL Databases  Mongo, Dymendo Db, 
+28 Using your Framework and change the DB from MySQL to mongo in a different branch 
+30- Testing using PHPUnit, Unit test and functional test 
+31 Update your project and add tests for your backend using framework helpers
+32- SOLD, DRY, KISS, Principals 
+33- Design Patterns 
+34- Update your Code with Both  
+35- Update your tests for all 
+36-  Travis CI or Github Actions to run your tests  
+37- Debugging your PHP code using Xdebug 
+38- Logging tools like monolog Databases  or services like Elasticsearch and Kibana
+39- Log your logs in different services like files and Databases Project 
+40- Using ORM Like Doctrine or Elephant  
+         Migrations, schemas, Entities managers 
+41- Update your project to use ORM 
+42- Using Cache Db, Redis, Memcached  to cache frequency data 
+43 – Using Redis as your session cache in your Project
+44 – PHPCS , Code PHP_CodeSniffer
+45 - PHPStan for the static analyzer 
+46- Git advanced like Git hooks – pre-commit – pre-merge
+47- Build your PHP Code using Phing to run commands and tests 
+48- Adding PHPCS, PHP stan, and Phing or githook to your project 
+49- Microservices and monolithic Concepts 
+50- Event-Driven architecture in your framework 
+    Event listener, Even subscriber, Event  Dispatcher, pusher 
+51- Cron jobs and Schedular tasks and backend tasks 
+52- Third-Party service to service connections and SDKs like 
+   Google APIs, AWS, Firebase 
+53- Use google API to make some Adjustment on your project 
+   Calculate distance, send a notification , view nearby places 
+54- DDD and TLD 
+55-Using your framework if you want  update your project to be DDD 
+56  -CI, CD Docker, and Jenkins Concepts, hooks versions  Server monitoring and Scale, 
+57- Server monitoring and Performance monitoring Htop, Net Data
+Performances 
